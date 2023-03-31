@@ -29,4 +29,4 @@ npm run lint
 [请参见配置参考](https://cli.vuejs.org/config/).
 
 ### 效果
-![效果图]((https://img2023.cnblogs.com/blog/2091346/202303/2091346-20230331191349149-1989918789.gif) "效果图")
+![效果图](https://img2023.cnblogs.com/blog/2091346/202303/2091346-20230331191349149-1989918789.gif)
